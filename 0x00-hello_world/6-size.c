@@ -5,7 +5,7 @@
  *
  * Return: Always 0 (sucess)
  */
-int main(viod)
+int main(void)
 {
 	int a;
 	long int b;
@@ -13,7 +13,7 @@ int main(viod)
 	char d;
 	float f;
 
-	printf("sixe of a char: %lu nyte(s)\m", (unsigned long)sizeof(d));
+	printf("size of a char: %lu byte(s)\n", (unsigned long)sizeof(d));
 	printf("size of an int: %lu byte(s)\n", (unsigned long)sizeof(a));
 	printf("size of a long int: %lu byte(s)\n", (unsigned long) sizeof(c));
 	printf("size of a float: %lu byte(s)\n", (unsigned long)sizeof(f));
