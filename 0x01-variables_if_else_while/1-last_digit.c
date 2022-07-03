@@ -5,9 +5,9 @@
 /**
  * main - print last digit in random number
  *
- * description: print last digit in random number
+ * Description: print last digit in random number
  *
- * return: always 0 (sucess)
+ * Return: Always 0 (sucess)
  *
  */
 
