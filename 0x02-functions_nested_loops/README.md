@@ -1,1 +1,1 @@
-this readme covers all the scripts on low level programming
+this contains all the scripts for nested loops
