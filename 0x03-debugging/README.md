@@ -1,1 +1,1 @@
-this is a script for debugging
+this consists of all the debugging scripts
